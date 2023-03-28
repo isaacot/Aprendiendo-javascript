@@ -8,5 +8,3 @@ if (edad === 18){
 }
 
 
-var numero = 1;
-var resultado = numero === 1 ? "Si, soy ese numero que buscas" : "No, soy otro numero"; 
